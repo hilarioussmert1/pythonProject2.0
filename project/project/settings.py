@@ -241,7 +241,7 @@ LOGGING = {
             'level': 'ERROR',
             'class': 'logging.FileHandler',
             'formatter': 'errors',
-            'filename': 'logs/errors.log',
+            'filename': 'errors.log',
         },
         'file_security': {
             'level': 'INFO',
